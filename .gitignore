@@ -1,0 +1,17 @@
+# Editor settings
+.vscode/
+
+# Media files (Large)
+audios/
+videos/
+
+# Large processed data
+embeddings.joblib
+jsons/
+
+# dynamically generated files
+prompts.txt
+response.txt
+
+# Python internals
+__pycache__/

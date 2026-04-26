@@ -15,3 +15,6 @@ response.txt
 
 # Python internals
 __pycache__/
+
+#py files
+speech_to_text.py

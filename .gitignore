@@ -10,7 +10,7 @@ embeddings.joblib
 jsons/
 
 # dynamically generated files
-prompts.txt
+prompt.txt
 response.txt
 
 # Python internals
